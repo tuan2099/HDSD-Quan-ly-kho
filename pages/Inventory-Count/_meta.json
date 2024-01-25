@@ -1,0 +1,11 @@
+{
+  "Inventory-General": {
+    "title": "1 .Tổng quan"
+  },
+  "Inventory-Add": {
+    "title": "2 .Tạo mục kiểm kho mới"
+  },
+  "Inventory-Info": {
+    "title": "3 .Hướng dẫn xem thông tin kiểm kho"
+  }
+}

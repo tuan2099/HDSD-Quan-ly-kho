@@ -1,0 +1,14 @@
+{
+  "Product-General": {
+    "title": "1 .Tổng quan"
+  },
+  "Product-Add": {
+    "title": "2 .Tạo biển bảng mới"
+  },
+  "Product-Info": {
+    "title": "3 .Hướng dẫn xem thông tin biển bảng"
+  },
+  "Product-Alert": {
+    "title": "4 .Cảnh báo sắp hết sản phẩm"
+  }
+}

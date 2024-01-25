@@ -1,0 +1,36 @@
+{
+  "index": "Introduction",
+  "another": "Another Page",
+  "advanced": "Advanced (A Folder)",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/shuding_",
+    "newWindow": true
+  },
+  "Warehouse": {
+    "title": "Kho"
+  },
+  "Product": {
+    "title": "Biển bảng dự án"
+  },
+  "Supplier": {
+    "title": "Nhà cung cấp"
+  },
+  "Inventory-Count": {
+    "title": "Kiểm kho"
+  },
+  "Warehouse-Transfer": {
+    "title": "Chuyển kho"
+  },
+  "Home": {
+    "title": "Trang chủ"
+  },
+  "Customer": {
+    "title": "Dự án"
+  }
+}
