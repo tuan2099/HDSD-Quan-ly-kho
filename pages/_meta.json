@@ -1,7 +1,5 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Giới thiệu",
   "about": {
     "title": "About",
     "type": "page"
@@ -32,5 +30,8 @@
   },
   "Customer": {
     "title": "Dự án"
+  },
+  "User": {
+    "title": "Người dùng"
   }
 }
