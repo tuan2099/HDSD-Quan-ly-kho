@@ -33,5 +33,11 @@
   },
   "User": {
     "title": "Người dùng"
+  },
+  "Import": {
+    "title": "Nhập kho"
+  },
+  "Export": {
+    "title": "Xuất kho"
   }
 }

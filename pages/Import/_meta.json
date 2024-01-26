@@ -1,0 +1,14 @@
+{
+  "Import-General": {
+    "title": "1 .Tổng quan"
+  },
+  "Import-Add": {
+    "title": "2 .Tạo đơn nhập kho"
+  },
+  "Import-Info": {
+    "title": "3 .Hướng dẫn xem thông tin phiếu nhập kho"
+  },
+  "Import-create": {
+    "title": "4 .Tạo file nhập kho"
+  }
+}

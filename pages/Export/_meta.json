@@ -1,0 +1,14 @@
+{
+  "Export-General": {
+    "title": "1 .Tổng quan"
+  },
+  "Export-Add": {
+    "title": "2 .Tạo đơn xuất kho"
+  },
+  "Export-Info": {
+    "title": "3 .Hướng dẫn xem thông tin phiếu xuất kho"
+  },
+  "Export-create": {
+    "title": "4 .Tạo file xuất kho"
+  }
+}

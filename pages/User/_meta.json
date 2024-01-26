@@ -1,1 +1,11 @@
-{}
+{
+  "User-General": {
+    "title": "1 .Tổng quan"
+  },
+  "User-Add": {
+    "title": "2 .Tạo biển bảng mới"
+  },
+  "User-Info": {
+    "title": "3 .Hướng dẫn xem thông tin biển bảng"
+  }
+}
